@@ -14,13 +14,15 @@ This repository contains information about companies and their practices regardi
 
 | **Company Name**          | **Last Date Reported**   |
 |---------------------------|--------------------------|
-| **Rogers**                | August 26, 2024            |
-| **IBM Canada**            | August 26, 2024            |
+| Rogers                | August 26, 2024            |
+| IBM Canada            | August 26, 2024            |
 
 ## Companies Providing Support Letters
 
-| **Company Name**          | **Last Date Reported**   |
-|---------------------------|--------------------------|
+| **Company Name**              | **Last Date Reported**   |
+|-------------------------------|--------------------------|
+| [Myra](https://www.myra.com/) | August 26, 2024            |
+| BC Ferries                    | August 26, 2024            |
 
 ## Notes
 
