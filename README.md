@@ -28,4 +28,4 @@ This repository contains information about companies and their practices regardi
 
 - Again, this table is for informational purposes only and may not reflect the current policies of the companies listed.
 - If you know of additional companies or updates to the information provided, please submit a pull request.
-- This repository aims to help PR applicants by providing transparency regarding company po
+- This repository aims to help PR applicants by providing transparency regarding company policies.
